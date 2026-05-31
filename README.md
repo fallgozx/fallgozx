@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm fallgozxtest</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:238636&height=200&section=header&text=fallgozxtest&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Innovator&descSize=18&descAlignY=55&descAlign=50" width="100%">
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/github-metrics.svg" alt="GitHub Metrics" width="400">
+  <img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/metrics/github-metrics-isocalendar.svg" alt="Isometric Calendar" width="400">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/metrics/github-metrics-languages.svg" alt="Languages" width="400">
+  <img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/metrics/github-metrics-stargazers.svg" alt="Stargazers" width="400">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/metrics/github-metrics-lines.svg" alt="Lines of Code" width="800">
 </p>
 
 ---
@@ -40,12 +48,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fallgozxtest&theme=dracula&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/output/github-snake-dark.svg)
 
 ---
 
