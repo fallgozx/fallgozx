@@ -1,0 +1,22 @@
+jobs:
+  github-metrics:
+    permissions:
+      contents: write
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: fallgozxtest
+          template: classic
+          output: github-metrics.svg
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+name: Metrics
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
