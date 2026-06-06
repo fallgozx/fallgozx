@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm fallgozxtest</h1>
+<h1 align="center">Hi 👋, I'm fallgozx</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:238636&height=200&section=header&text=fallgozxtest&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Innovator&descSize=18&descAlignY=55&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:238636&height=200&section=header&text=fallgozx&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Innovator&descSize=18&descAlignY=55&descAlign=50" width="100%">
 </p>
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-classic.svg" alt="Classic Metrics" width="480"></td>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-calendar.svg" alt="Isometric Calendar" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-classic.svg" alt="Classic Metrics" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-calendar.svg" alt="Isometric Calendar" width="480"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-languages.svg" alt="Languages & Habits" width="480"></td>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-stargazers.svg" alt="Stargazers" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-languages.svg" alt="Languages & Habits" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-stargazers.svg" alt="Stargazers" width="480"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-lines.svg" alt="Lines of Code" width="480"></td>
-    <td><img src="https://raw.githubusercontent.com/fallgozxtest/fallgozxtest/main/metrics-achievements.svg" alt="Achievements" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-lines.svg" alt="Lines of Code" width="480"></td>
+    <td><img src="https://raw.githubusercontent.com/fallgozx/fallgozx/main/metrics-achievements.svg" alt="Achievements" width="480"></td>
   </tr>
 </table>
 
@@ -46,10 +46,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fallgozxtest&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fallgozxtest?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=fallgozx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fallgozx?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 <p align="center">
-  Made with ❤️ by fallgozxtest
+  Made with ❤️ by fallgozx
 </p>

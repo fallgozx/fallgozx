@@ -19,7 +19,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Classic metrics
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-classic.svg
           output_action: commit
@@ -29,7 +29,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Languages & habits
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-languages.svg
           plugin_languages: yes
@@ -43,7 +43,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Isometric calendar
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-calendar.svg
           plugin_isocalendar: yes
@@ -55,7 +55,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Stargazers
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-stargazers.svg
           plugin_stargazers: yes
@@ -67,7 +67,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Lines of code
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-lines.svg
           plugin_lines: yes
@@ -79,7 +79,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Trophies / achievements
         with:
-          user: fallgozxtest
+          user: fallgozx
           template: classic
           filename: metrics-achievements.svg
           plugin_achievements: yes
